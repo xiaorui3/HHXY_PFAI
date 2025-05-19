@@ -134,7 +134,6 @@ def preprocess_packed_supervised_dataset(
     processor: Optional["ProcessorMixin"],
     data_args: "DataArguments",
 ) -> Dict[str, List[Any]]:
-    # TODO: use `position_ids` to achieve packing
     # build inputs with format `<bos> X1 Y1 <eos> <bos> X2 Y2 <eos>`
     # and labels with format `<ignore> ... <ignore> Y1 <eos> <ignore> ... <ignore> Y2 <eos>`
     valid_num = 0

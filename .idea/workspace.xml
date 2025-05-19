@@ -175,7 +175,7 @@
       <workItem from="1742342356155" duration="21000" />
       <workItem from="1743517252937" duration="2000" />
       <workItem from="1747632392254" duration="3000" />
-      <workItem from="1747633672137" duration="305000" />
+      <workItem from="1747633672137" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="test01">
       <option name="closed" value="true" />
@@ -185,7 +185,39 @@
       <option name="project" value="LOCAL" />
       <updated>1747633720131</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test01">
+      <option name="closed" value="true" />
+      <created>1747634147183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747634147183</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test01">
+      <option name="closed" value="true" />
+      <created>1747634226635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747634226635</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test01">
+      <option name="closed" value="true" />
+      <created>1747634263803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747634263803</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test01">
+      <option name="closed" value="true" />
+      <created>1747634269270</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747634269270</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

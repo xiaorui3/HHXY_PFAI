@@ -88,7 +88,7 @@ def _get_quantization_dataset(tokenizer: "PreTrainedTokenizer", model_args: "Mod
             sample: Dict[str, "torch.Tensor"] = tokenizer(dataset[sample_idx]["text"], return_tensors="pt")
             n_try += 1
             if sample["input_ids"].size(1) > maxlen:
-                break  # TODO: fix large maxlen
+                break
 
         word_idx = random.randint(0, sample["input_ids"].size(1) - maxlen - 1)
         input_ids = sample["input_ids"][:, word_idx : word_idx + maxlen]
